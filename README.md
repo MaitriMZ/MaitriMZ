@@ -1,4 +1,4 @@
-### Hi there 👋, it's Maitri here
+## Hi there 👋, it's Maitri here
 
 As a specialist in Python and SQL development, I have extensive hands-on experience in data analysis, visualization, and machine learning using popular Python libraries like Pandas, NumPy, and Matplotlib. My proficiency in various ML models and techniques such as regression, classification, and clustering enable me to extract insights and make informed decisions. I am skilled in conveying my findings through clear and impactful visualizations and reports.
 
