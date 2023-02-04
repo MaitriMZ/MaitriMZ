@@ -4,6 +4,10 @@ As a specialist in Python and SQL development, I have extensive hands-on experie
 
 I am a highly motivated and enthusiastic professional with a self-driven approach and a relentless desire to continuously learn and tackle new challenges. My passion, combined with my ability to work independently, enables me to take on and successfully complete innovative projects with confidence.
 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 <!--
 **MaitriMZ/MaitriMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
