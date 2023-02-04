@@ -2,6 +2,8 @@
 
 As a specialist in Python and SQL development, I have extensive hands-on experience in data analysis, visualization, and machine learning using popular Python libraries like Pandas, NumPy, and Matplotlib. My proficiency in various ML models and techniques such as regression, classification, and clustering enable me to extract insights and make informed decisions. I am skilled in conveying my findings through clear and impactful visualizations and reports.
 
+I am a highly motivated and enthusiastic professional with a self-driven approach and a relentless desire to continuously learn and tackle new challenges. My passion, combined with my ability to work independently, enables me to take on and successfully complete innovative projects with confidence.
+
 <!--
 **MaitriMZ/MaitriMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
